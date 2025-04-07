@@ -1,7 +1,7 @@
 # embedded_c
 # Embedded C Practice Solutions
 
-Welcome to my repository, where I showcase solutions to various **Embedded C** problems and array manipulation challenges. This repository is part of my journey to mastering **Embedded C**, with a focus on algorithmic thinking, recursion, and low-level programming. Each problem solved is an important step in understanding concepts crucial for **embedded systems**.
+Welcome to my repository, where I showcase solutions to various **Embedded C** problems and array, pointer, and string manipulation challenges. This repository is part of my journey to mastering **Embedded C**, with a focus on algorithmic thinking, recursion, and low-level programming. Each problem solved is an important step in understanding concepts crucial for **embedded systems**.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -13,7 +13,7 @@ Welcome to my repository, where I showcase solutions to various **Embedded C** p
 - [Contact](#contact)
 
 ## Introduction
-This repository contains solutions to various **array and string manipulation** problems in **C**, designed to:
+This repository contains solutions to various **array, pointer, and string manipulation** problems in **C**, designed to:
 - Sharpen algorithmic skills.
 - Improve problem-solving abilities.
 - Prepare for real-world applications in embedded systems programming.
@@ -54,6 +54,33 @@ Here is a list of the problems I’ve tackled so far:
 24. **Check if an Array Can Be Divided into Pairs Whose Sum is Divisible by k**
 25. **Find the Subarray with the Least Sum**
 
+### **Pointer-Based Problems:**
+1. **Find the Size of a Data Type Without Using sizeof**
+2. **Check if Two Pointers Point to the Same Array**
+3. **Count Elements in an Array Using Pointer Arithmetic**
+4. **Swap Two Strings Using Pointers to Pointers**
+5. **Segregate Even and Odd Values in an Array Using Pointers**
+6. **Concatenate Two Strings Without Standard Library Functions**
+7. **Split a String into Two Halves Using Pointers**
+8. **Trim Leading and Trailing Whitespace Using Pointers**
+9. **Find the Overlapping Part of Two Arrays Using Pointers**
+10. **Rotate an Array to the Right by k Steps Using Pointers**
+11. **Merge Two Sorted Arrays Using Pointers**
+12. **Check if a String is a Prefix of Another Using Pointers**
+13. **Convert a String to Lowercase Using Pointers**
+14. **Find the First Non-Repeated Character Using Pointers**
+15. **Find Intersection of Two Arrays (Sorted/Unsorted) Using Pointers**
+16. **Check if a String is a Palindrome Using Pointers**
+17. **Calculate the Dot Product of Two Vectors Using Pointers**
+18. **Find the Length of a Linked List Using Double Pointers**
+19. **Find Common Elements in Three Sorted Arrays Using Pointers**
+20. **Flatten a 2D Array into a 1D Array Using Pointers**
+21. **Memory Leak Detector Using Custom malloc/free Tracker**
+22. **Move a 2D Point Struct Using Pointer Arithmetic**
+23. **Custom strtok() Using Pointers**
+24. **Custom memcpy() Using Pointers**
+25. **Detect if a Pointer Has Gone Out of Bounds of an Array**
+
 ### **String Manipulation Problems:**
 1. **Print Duplicate Characters**  
 2. **Convert String to Integer**  
@@ -79,8 +106,8 @@ Here is a list of the problems I’ve tackled so far:
 22. **String Encoding**  
 23. **Maximum Occurring Character**  
 24. **Palindrome Partitioning**  
-25. **Repeated Substring Pattern**  
+25. **Repeated Substring Pattern**
 
 ## Technologies Used
 - **C Programming Language**
-- **Embedded C Concepts** (Memory Management, Pointers, etc.)
+- **Embedded C Concepts** (Memory Management, Pointers, Structs, etc.)
